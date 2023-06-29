@@ -22,5 +22,6 @@
         android:layout_below="@id/imageView2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
+        android:textColor="@color/teal_700"
         android:text="Trage carti" />
 </RelativeLayout>
